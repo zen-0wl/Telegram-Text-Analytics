@@ -1,3 +1,9 @@
+The implementation was focused on the “chat-analytics”, “Telegrammetry”, “Automating Data Collection 
+and Analysis” or “Collecting Messages from Telegram” project. We explored groups that 
+discusses about the current situation in Palestine such as #ceasefire or #freepalestine 
+from a particular geolocation (i.e Malaysia) and took telegram data. The data was limited 
+200 messages at maximum. The group focused was 'eye on palestine' to be precise. 
+
 > The scoring method utilised where each positive keyword contributes 0.2 to the sentiment score, 
   and each negative keyword deducts 0.2 , score normalized to be within the range of 0 to 1.0
 
